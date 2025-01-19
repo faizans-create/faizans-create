@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm FAIZAN AHMED</h1>
 <h3 align="center">Aspiring Cloud Generative AI Engineering</h3>
-<img align="right"=width="400" src="https://user images.githubusercontent.com/55389276/140866485-8fb10876-9a8f-4d6a-98dc-08c4981eaf70.gif>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 - 🌱 I’m currently learning **cloud generative ai**
 
@@ -23,6 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faizans-create&show_icons=true&locale=en" alt="faizans-create" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizans-create&" alt="faizans-create" /></p>
-
-
-
