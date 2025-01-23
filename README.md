@@ -35,9 +35,9 @@ Faizan Ahmed - Aspiring Cloud Generative AI Engineer 🌥️🚀
 ---
 
 ## 📫 Contact Me:
-- **Email**: [faizanahmedarain2009@gmail.com](mailto:faizanahmedarain2009@gmail.com)  
-- **Instagram**: [im_faizan.ahmed](https://www.instagram.com/im_faizan.ahmed)  
-- **LinkedIn**: [Faizan Ahmed](https://www.linkedin.com/in/faizan-ahmed)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizanahmedarain2009@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/im_faizan.ahmed)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizan-ahmed-a920712b6)
 
 ---
 
