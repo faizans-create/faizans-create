@@ -31,6 +31,8 @@ Faizan Ahmed - Aspiring Cloud Generative AI Engineer 🌥️🚀
 ## 🎓 Certifications:
 ![Cloud Certification](https://img.shields.io/badge/Certified%20in%20Cloud%20Computing-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+Welcome GIF](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6
+
 ![Video Editing](https://img.shields.io/badge/Video%20Editing-FF6347?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
 
 ---
