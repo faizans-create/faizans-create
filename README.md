@@ -2,7 +2,7 @@ Faizan Ahmed - Aspiring Cloud Generative AI Engineer 🌥️🚀
 
 **Hello!** My name is **Faizan Ahmed** 👋. I am a Class 10 student 📚 with a strong passion for exploring the exciting world of **Cloud Generative AI** 🌥️🚀. Currently, I am learning cutting-edge AI technologies through **PIAIC** (Presidential Initiative for Artificial Intelligence and Computing) ☁️. My aim is to develop AI-powered solutions that can positively impact our daily lives. Alongside AI, I am also skilled in video editing 🎬, programming, and designing creative projects.  
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 
 ---
 
@@ -37,7 +37,7 @@ Faizan Ahmed - Aspiring Cloud Generative AI Engineer 🌥️🚀
 
 ![Video Editing](https://img.shields.io/badge/Video%20Editing-FF6347?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
 
-![Hello World GIF](https://github.com/your-username/your-repo-name/raw/main/path/to/your-gif.gif)
+![Hello World GIF](https://github.com/your-username/your-repo-name-gif.gif)
 
 ---
 
