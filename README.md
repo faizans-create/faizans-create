@@ -28,7 +28,6 @@ Faizan Ahmed - Aspiring Cloud Generative AI Engineer 🌥️🚀
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/DJaGVEhxWhj5g6f58">
 
 ---
 
