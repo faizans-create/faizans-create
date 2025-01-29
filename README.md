@@ -12,6 +12,8 @@ Faizan Ahmed - Aspiring Cloud Generative AI Engineer 🌥️🚀
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 ---
 
 ## ⚒️ Tools & Frameworks:
